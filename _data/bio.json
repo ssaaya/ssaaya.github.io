@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Saaya Honjiyo",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://avatars.githubusercontent.com/u/73742674?v=4",
+    "email": "saayah@hawaii.edu",
+    "phone": "",
+    "website": "https://ssaaya.github.io",
+    "summary": "I am a Shidler student studying Accounting and Management Information Systems. I expect to graduate in Spring 2023.",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,56 +17,36 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
-      },
-      {
-        "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "ssaaya",
+        "url": "http://github.com/ssaaya"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "Food",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Crypto",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Beach",
       "keywords": [
       ]
     }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Microsoft Office",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Excel",
+        "Word",
+        "PowerPoint"
       ]
     },
     {
@@ -74,90 +54,97 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "PC",
+        "Git/GitHub"
+      ]
+    },
+    {
+      "name": "Languages",
+      "level": "",
+      "keywords": [
+        "English",
+        "Japanese"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "gpa": "",
-      "courses": [
-      ]
+      "area": "Accounting and Management Information Systems (expected Spring, 2023)",
+      "studyType": "B.B.A."
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "ProService Hawaii",
+      "position": "Accounting Intern",
+      "website": "https://www.proservice.com/",
+      "startDate": "2021-07",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "The purpose of the Accounting Intern is to provide support in the accounting team’s various daily functions. This role will be directly responsible for working closely with staff and senior accountants, accounting manager, and controller to ensure accurate GL closing and timely financial reporting",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Void checks",
+        "Update check statuses through various AP check registers",
+        "Help staff and senior accountant with yearly escheat"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+    "company": "Hongwanji Mission School",
+      "position": "After School Care Helper",
+      "website": "http://www.hongwanji.us/",
+      "startDate": "2019",
+      "endDate": "2019",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Helped kids with their homework",
+        "Watch over kids actions",
+        "Made sure kids were picked up safely"
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "company": "Hollister Co.",
+      "position": "Brand Representative",
+      "website": "http://hollisterco.com/",
+      "startDate": "2019",
+      "endDate": "2019",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Customer service",
+        "Greet customers",
+        "Cashier responsibilities"
+      ]
+    },
+    {
+      "company": "Sweet Creams",
+      "position": "Ice Cream Roller",
+      "website":"http://www.sweetcreamshawaii.com/",
+      "startDate":"2019",
+      "endDate":"2019",
+      "highlights": [
+        "Roll ice cream",
+        "Clean and organize",
+        "Cashier responsibilities",
+        "Worked at catering events"
+      ]
+    },
+    {
+      "company": "Fisher Hawaii",
+      "position": "Stock Clerk",
+      "website":"http://www.fisherhawaii.biz/",
+      "startDate":"2018",
+      "endDate":"2018",
+      "highlights": [
+        "Restock inventory",
+        "Customer service",
+        "Answer phone calls from customers",
+        "Clean and organize"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Dean's List",
+      "date": "2021",
+      "awarder": "University of Hawaii",
+      "summary": "Special recognition awarded to students with a minimum GPA of 3.5."
     }
   ],
   "references": [
