@@ -5,7 +5,7 @@ title: E4Progress in Programming
 # All dates must be YYYY-MM-DD format!
 date: 2021-11-26
 labels:
-E4
+  -  E4
 ---
 My programming skills have greatly improved in the following ways:
 I believe I am better at figuring out where my coding is going wrong. At the beginning of the semester, if my code wouldn't work out the way I want it to, I had no idea where to look. However now, I know where to look such as the console, and I understand the language a lot better. It can still take me a while, but there has been improvement. 
