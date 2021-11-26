@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: Why MIS?
+title: E4Progress in Programming
 # All dates must be YYYY-MM-DD format!
-date: 2021-08-30
+date: 2021-11-26
 labels:
 E4
 ---
@@ -15,7 +15,7 @@ I need to work on understanding the logic of code. I think my understanding of t
 
 I can do the WODs without looking at the screencast solutions first:
 Usually I can only do about half of the WODs before I get really stuck. Sometimes I just do not understand the instructions are saying as well.
-4
+
 The labs have helped me to learn and I am able to complete them with confidence:
 The labs definitely help. With coding, I believe the only way to learn is by actually doing it. I am not confident enough to do the whole thing by myself however. I need to double check with the zoom recordings.
  
