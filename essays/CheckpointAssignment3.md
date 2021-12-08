@@ -7,5 +7,5 @@ date: 2021-09-29
 labels:
     -Checkpoint Assignment 3
 ---
-This is the link to my powerpoint screencast, where I go over the checkpoint questions[here]https://youtu.be/ztiVhYo_Lv0 .
+This is the link to my powerpoint screencast, where I go over the checkpoint questions [here](https://youtu.be/ztiVhYo_Lv0). 
 
