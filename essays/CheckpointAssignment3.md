@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Checkpoint Assignment#3
 # All dates must be YYYY-MM-DD format!
-date: 2021-09-29
+date: 2021-12-08
 labels:
     -Checkpoint Assignment 3
 ---
